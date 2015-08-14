@@ -6,8 +6,8 @@ relative_permalinks: true
 
 # Setup
 title:               lcarbonaro
-tagline:             'a blog'
-description:         'just another Jekyll blog on github.io'
+tagline:             'just a blog... nothing to see here... move along'
+description:         'Just another Jekyll blog on github.io'
 url:                 http://lcarbonaro.github.io
 baseurl:             ''
 paginate:            5
